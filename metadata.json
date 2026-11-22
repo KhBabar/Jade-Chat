@@ -1,0 +1,6 @@
+{
+  "name": "JadeChat",
+  "description": "Real-time messaging, file sharing, and peer-to-peer voice calling workspace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
